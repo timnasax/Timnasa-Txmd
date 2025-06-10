@@ -43,7 +43,7 @@ npm start
 | **Contributor** | **Role** |
 |------------------|----------|
 | [Baileys](https://github.com/WhiskeySockets/Baileys) | Core WhatsApp Web API Library |
-| [FredieTech](https://github.com/Next5x/) | Developer & Maintainer of 𝑇𝛪𝛭𝛮𝛥𝑆𝛥 𝑇𝛸𝛭𝐷|
+| [Timnasa-Txmd](https://github.com/Next5x/) | Developer & Maintainer of 𝑇𝛪𝛭𝛮𝛥𝑆𝛥 𝑇𝛸𝛭𝐷|
 
 ---
 
