@@ -20,7 +20,7 @@
    # Termux
    **Termux Setup Instructions**:<br> 1. Install [Termux](https://f-droid.org/packages/com.termux/) on Android.<br> 2. Clone the repo and navigate into the folder.<br> 3. Install dependencies and run the bot with the commands below. 
 # Heroku 
-**Heroku deployment guide**:<br> 1. Create an account on  [Heroku](https://signup.heroku.com)<br> 2. After creating an account, add credit card and [𝐷𝛯𝛲𝐿𝛩𝑌 𝛩𝛮 𝛨𝛯𝑅𝛩𝛫𝑈](https://timnasa.vercel.app/) <br> 
+**Heroku deployment guide**:<br> 1. Create an account on  [Heroku](https://signup.heroku.com)<br> 2. After creating an account, add credit card and [𝐷𝛯𝛲𝐿𝛩𝑌 𝛩𝛮 𝛨𝛯𝑅𝛩𝛫𝑈](https://dashboard.heroku.com/new?button-url=https://github.com/Next5x/Timnasa-Txmd&template=https://github.com/Next5x/Timnasa-Txmd.git) <br> 
 
 ---
 
