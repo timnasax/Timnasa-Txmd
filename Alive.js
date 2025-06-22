@@ -1,7 +1,7 @@
 import cron from 'node-cron';
 import axios from 'axios';
 
-const url = 'https://timnasa-txmd-fa9o.onrender.com';
+const url = 'https://github.com/timnasax/Timnasa-Txmd';
 
 cron.schedule('*/14 * * * *', async () => {
   try {
